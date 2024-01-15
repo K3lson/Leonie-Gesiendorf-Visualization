@@ -1,0 +1,92 @@
+{
+  "project": {
+    "name": "Leonie Geisendorf",
+    "quality": 1
+ },
+  "loader": {
+    "info": "data/info.md",
+    "timeline": "data/timeline.csv",
+    "items": "data/data.csv",
+    "layouts": [
+      {
+          "title": "Time"
+      },
+      {
+          "title": "Similarity",
+          "url": "data/tsne.csv",
+          "scale": 1.1
+      }
+  ],
+    "textures": {
+      "medium": {
+        "size": 128,
+        "url": "data/img/sprites/spritesheet.json"
+      },
+      "detail": {
+        "size": 1024,
+        "url": "data/img/1024/"
+      },
+      "big": {
+        "size": 4096,
+        "url": "data/img/4096/"
+      }
+    }
+  },
+  "style": {
+    "fontColor": "#fff",
+    "fontColorActive": "#000",
+    "linkColor": "#fff",
+    "fontBackground": "#4c4c47",
+    "textShadow": "1px 1px 1px #66665b",
+    "canvasBackground": "#6d918e",
+    "timelineBackground": "#f2f2e6",
+    "timelineFontColor": "#000",
+    "detailBackground": "#edf4fa",
+    "infoBackground": "#51706e",
+    "infoFontColor": "#fff",
+    "searchbarBackground": "#51706e"
+  },
+  "projection": {
+    "columns": 9
+  },
+  "detail": {
+    "structure": [      
+      {
+        "name": "Descriptions",
+        "source": "_description",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Year",
+        "source": "_year",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Material",
+        "source": "_material",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Dimensions",
+        "source": "column._width + 'mm * ' + column._height + 'mm'",
+        "display": "column",
+        "type": "function"
+      },
+      {
+        "name": "Keywords",
+        "source": "_keywords",
+        "display": "column",
+        "type": "array"
+      },
+      {
+        "name": "Id",
+        "source": "_id",
+        "display": "column",
+        "type": "text"
+      }
+    ]
+  }
+}
