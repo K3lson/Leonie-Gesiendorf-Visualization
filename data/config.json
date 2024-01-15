@@ -2,7 +2,7 @@
   "project": {
     "name": "Leonie Geisendorf",
     "quality": 1
- },
+},
   "loader": {
     "info": "data/info.md",
     "timeline": "data/timeline.csv",
