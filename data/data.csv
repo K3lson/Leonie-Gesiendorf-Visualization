@@ -15,7 +15,7 @@ ARKM.2005-202-24-04,Fasadskiss,1962,Modell,60,215,1962,unknown
 ARKM.2005-202-24-02,Fasadskiss,1962,Modell,70,235,1962,unknown
 ARKM.2005-202-24-01,Fasadskiss,1962,Modell,67,235,1962,unknown
 ARKM.2005-202-24-06,Fasadskiss,1962,Modell,128,235,1962,unknown
-ARKM.2005-202-32,Katolska Kyrkan ,1962,Modell,200,235,1962,unknown
+ARKM.2005-202-32,Katolska Kyrkan,1962,Modell,200,235,1962,unknown
 ARKM.2005-202-33,Nya Katolska kyrkan,1962,Modell,500,235,1962,unknown
 ARKM.2005-202-01,Nya Katolska kyrkan,1962,Gips,320,235,1962,unknown
 ARKM.2005-202-34,Nya Katolska Kyrkan,1962,Gips,320,235,1962,unknown
@@ -23,7 +23,7 @@ ARKM.2005-202-34,Katolska kyrkan,1962,Gips,320,235,1962,unknown
 ARKM.2005-202-35,Den första modellen,1963,Modell,300,70,1963,unknown
 ARKM.2005-02-03-56-01,Fasadskiss,1963,Transparent papper,570,523,1963,Både fett och hård blyerts.
 ARKM.2005-02-200-011-001,Fasadskiss,1977,Papper,196,105,1977,Typ av kopia inte identifierad
-ARKM.2005-02-200-219-003,Stödbrev ,1977,Vykort,148,103,1977,Typ av kopia inte identifierad
+ARKM.2005-02-200-219-003,Stödbrev,1977,Vykort,148,103,1977,Typ av kopia inte identifierad
 ARKM.2005-02-200-219-002,Stödbrev,1977,Papper,147,105,1977,Typ av kopia inte identifierad
 ARKM.2005-02-200-219-004a,Stödbrev,1977,Papper,134,180,1977,Typ av kopia inte identifierad
 ARKM.2005-02-200-219-004b,Stödbrev,1977,Papper,146,95,1977,Kuvert med frimärke på med skrift
@@ -35,7 +35,7 @@ ARKM.2005-02-200-219-007a,Stödbrev,1977,Papper,160,114,1977,Kuvert med frimärk
 ARKM.2005-02-200-219-007b,Stödbrev,1977,Papper,160,114,1977,Kuvert med frimärke på med skrift.
 ARKM.2005-02-200-219-008a,Stödbrev,1977,Papper,147,104,1977,Lite tjock papper
 "
-ARKM.2005-02-200-219-008b",Stödbrev,1977,Papper,147,104,1977,Lite tjock papper
+ARKM.2005-02-200-219-008b","Stödbrev, brev",1977,Papper,147,104,1977,Lite tjock papper
 ARKM.2005-02-200-219-009,Stödbrev,1977,Papper,164,115,1977,"OBS!
 I omslaget finns två föremål ett kuvert och ett brev men brevet finns ej i listan! 
 
@@ -60,7 +60,7 @@ ARKM.2005-02-164-02,Skissblock,1962,Skissbok,220,550,1962,"kopia av maskinskrift
 Finns med som diabild döpta till Katthavet."
 ARKM.2005-02-200-230-001,Krokiblock,1962,Skissblock,274,221,1962,"Spiralblock ""Ritblock med glättat papper"". Kraftig hård bakkartong och mjuk framsida."
 ARKM.2005-02-200-217,Wandas pärm,1962,Ringpärm,400,300,1962,"Spiralblock ""Ritblock med glättat papper"". Kraftig hård bakkartong och mjuk framsida. Wandas ovärdeliga pärm. Uppslagen så att insidan av pärmen syns."
-ARKM.2005-02-200-165-001,Katolska Kyrkan ,1962,Häfte,150,211,1962,Mycket glatt kalenderat papper. Häftat med klamrar.
+ARKM.2005-02-200-165-001,Katolska Kyrkan,1962,Häfte,150,211,1962,Mycket glatt kalenderat papper. Häftat med klamrar.
 ARKM.2005-02-200-165-001,Arikel,1962,Tidningsurklipp,148,325,1962,Mycket glatt kalenderat papper. Häftat med klamrar.
 ARKM.2005-02-200-165-001,Arikel,1962,Tidningspapper på papper,210,296,1962,Två uppklistrade tidningsurklipp. Notiser i kulspetspenna
 ARKM.2005-02-200-211-001,Brev,1962,Papper,148,210,1962,Maskinskrift på brevpapper med signatur i reservoarpenna. Brev gällande klagomål på ljud nattetid. Från Yngve Schartaus Advokatbyrå genom Sigurd Waldenström
@@ -121,13 +121,13 @@ Utsmetade blyerts"
 ARKM.2005-202-04,Situationsmodell,1968,Transparent papper,470,310,1968,"Stämpelbläck vid nedre höger sidan
 Utsmetade blyerts"
 ARKM.2005-02-200-16-001,Pass polskt,1968,Papper,193,142,1968,Omslag av klot
-ARKM.2005-02-200-16-002,Pass schweisiskt,1948,Papper,200,144,1948,Klot på insidan av omslaget
-ARKM.2005-102-29-01,Foton från Rue de Sévres,1948,Papper,210,297,1948,Klot på insidan av omslaget
-ARKM.2005-102-31-005,Ung Leonja,1948,Foto,92,122,1948,Klot på insidan av omslaget
-ARKM.2005-102-31-002,Ung Leonja,1948,Foto,92,122,1948,Klot på insidan av omslaget
-ARKM.2005-102-31-003,Ung Leonja,1948,Foto,92,122,1948,Klot på insidan av omslaget
-ARKM.2005-102-31-004,Ung Leonja.,1948,Foto,92,122,1948,Klot på insidan av omslaget
-ARKM.2005-102-31-001,Ung Leonja.,1948,Foto,92,122,1948,Klot på insidan av omslaget
+ARKM.2005-02-200-16-002,Pass schweisiskt,1957,Papper,200,144,1957,Klot på insidan av omslaget
+ARKM.2005-102-29-01,Foton från Rue de Sévres,1957,Papper,210,297,1957,Klot på insidan av omslaget
+ARKM.2005-102-31-005,Ung Leonja,1957,Foto,92,122,1957,Klot på insidan av omslaget
+ARKM.2005-102-31-002,Ung Leonja,1957,Foto,92,122,1957,Klot på insidan av omslaget
+ARKM.2005-102-31-003,Ung Leonja,1957,Foto,92,122,1957,Klot på insidan av omslaget
+ARKM.2005-102-31-004,Ung Leonja.,1957,Foto,92,122,1957,Klot på insidan av omslaget
+ARKM.2005-102-31-001,Ung Leonja.,1957,Foto,92,122,1957,Klot på insidan av omslaget
 ARKM.2005-102-28-02,"Pressfoto, St.Görans gymnasium",1987,Foto,204,308,1987,Klot på insidan av omslaget
 ARKM.2005-102-,"Pressfoto, St.Görans gymnasium",1987,Foto,195,294,1987,Klot på insidan av omslaget
 ARKM.2005-102-02-02,"Pressfoto, St.Görans gymnasium",1987,Foto,290,237,1987,Klot på insidan av omslaget
@@ -167,40 +167,40 @@ ARKM.2005-102-05-001,Interiör,1962,Foto,223,150,1962,Utsmetad blyerts
 ARKM.1988-111-X367-5,"Interiör, Dörr",1962,Foto,223,150,1962,Utsmetad blyerts
 ARKM.1996-32-072-001,Detaljritning,1962,Transparent papper,371,448,1962,Lätt utsmetad blyerts
 ARKM.1988-111-X373-9,"Interiör, Bio",1962,Foto,371,448,1962,Lätt utsmetad blyerts
-ARKM.1988-111-X373-9,Celler för Fångvården,1962,Foto,371,448,1962,Lätt utsmetad blyerts
-ARKM.2005-102-24-0006,Cell i skala 1:1,1962,Dia,371,448,1962,Lätt utsmetad blyerts
-ARKM.2005-102-24-0018,Cell i skala 1:1,1962,Dia,371,448,1962,Lätt utsmetad blyerts
-ARKM.2005-102-24-0017,Cell i skala 1:1,1962,Dia,371,448,1962,Lätt utsmetad blyerts
-ARKM.2005-102-24-0016,Cell i skala 1:1,1962,Dia,371,448,1962,Lätt utsmetad blyerts
-ARKM.2005-02-10-02-018,Fönster i cell,1962,Transparent papper,210,297,1962,Det är oklart men kanske tejpremsan del av verket.
-ARKM.2005-02-10-02-001,Fönster i cell,1962,Transparent papper,212,297,1962,"Ritning i blyerts, lila stämpel"
-ARKM.2005-02-10-02-036,Fönster i cell,1962,Transparent papper,210,303,1962,Utsmetad blyerts
-ARKM.2005-02-10-02-015,Fönster i cell,1962,Transparent papper,215,302,1962,Rivna kanter
-ARKM.2005-02-10-02-013,Fönster i cell,1962,Transparent papper,212,297,1962,Rivna kanter
-ARKM.2005-02-,Fönster i cell,1962,Transparent papper,223,330,1962,Hård blyerts
-ARKM.2005-02-,Fönster i cell,1962,Transparent papper,220,316,1962,Hård blyerts
-ARKM.2005-02-10-02-06,Fönster i cell,1962,Transparent papper,216,298,1962,Hård blyerts
+ARKM.1988-111-X373-9,Celler för Fångvården,1963,Foto,371,448,1962,Lätt utsmetad blyerts
+ARKM.2005-102-24-0006,Cell i skala 1:1,1963,Dia,371,448,1962,Lätt utsmetad blyerts
+ARKM.2005-102-24-0018,Cell i skala 1:1,1963,Dia,371,448,1962,Lätt utsmetad blyerts
+ARKM.2005-102-24-0017,Cell i skala 1:1,1963,Dia,371,448,1962,Lätt utsmetad blyerts
+ARKM.2005-102-24-0016,Cell i skala 1:1,1963,Dia,371,448,1962,Lätt utsmetad blyerts
+ARKM.2005-02-10-02-018,Fönster i cell,1963,Transparent papper,210,297,1962,Det är oklart men kanske tejpremsan del av verket.
+ARKM.2005-02-10-02-001,Fönster i cell,1963,Transparent papper,212,297,1962,"Ritning i blyerts, lila stämpel"
+ARKM.2005-02-10-02-036,Fönster i cell,1963,Transparent papper,210,303,1962,Utsmetad blyerts
+ARKM.2005-02-10-02-015,Fönster i cell,1963,Transparent papper,215,302,1962,Rivna kanter
+ARKM.2005-02-10-02-013,Fönster i cell,1963,Transparent papper,212,297,1962,Rivna kanter
+ARKM.2005-02-,Fönster i cell,1963,Transparent papper,223,330,1962,Hård blyerts
+ARKM.2005-02-,Fönster i cell,1963,Transparent papper,220,316,1962,Hård blyerts
+ARKM.2005-02-10-02-06,Fönster i cell,1963,Transparent papper,216,298,1962,Hård blyerts
 ARKM.2005-02,Materialprov,1962,Papper,210,298,1962,Två materialprover fastsatta med häftklamrar på papper. Påskrift i filtpenna.
 ARKM.2005-02,Materialprov,1962,Papper,210,298,1962,Tre f'ärgprover fastsattra med häftklamrar. Påskrifter i filtpenan och blyerts.
 ARKM.2005-02,Produktblad,1962,Papper,210,298,1962,"Högglansigt kalenderat papper, svart och rött tryck. Påskrift i blyerts"
 ARKM.2005-02,Blåbetsad bok,1962,Papper,210,298,1962,"Högglansigt kalenderat papper, svart och rött tryck. Påskrift i blyerts"
 ARKM.2005-02,Rapport om miljöstudier,1962,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
 5 mm tjock"
-ARKM.2005-02,Celler för Fångvården,1962,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
+ARKM.2005-02,Celler för Fångvården,1963,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
 5 mm tjock"
-ARKM.2005-202-,Modell Cell,1962,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
+ARKM.2005-202-,Modell Cell,1963,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
 5 mm tjock"
-ARKM.2005-202-,Modell Cell,1962,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
+ARKM.2005-202-,Modell Cell,1963,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
 5 mm tjock"
-ARKM.2005-202-,Modell Cell,1962,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
+ARKM.2005-202-,Modell Cell,1963,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
 5 mm tjock"
-ARKM.2005-202-,Modell Cell,1962,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
+ARKM.2005-202-,Modell Cell,1963,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
 5 mm tjock"
-ARKM.2005-202-,Modell Cell,1962,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
+ARKM.2005-202-,Modell Cell,1963,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
 5 mm tjock"
-ARKM.2005-202-,Modell Cell,1962,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
+ARKM.2005-202-,Modell Cell,1963,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
 5 mm tjock"
-ARKM.2005-202-,Modell Cell,1962,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
+ARKM.2005-202-,Modell Cell,1963,Tidskrift,208,296,1962,"Kalenderat glättat papper. Limmad rygg.
 5 mm tjock"
 ARKM.2005-02-03-56-02,Fasadskiss,1962,Transparent papper,419,591,1962,Lite tjockt transparent papper
 ARKM.2005-02-03-19-01,Situationsplan,1962,Transparent papper,226,336,1962,Lite tjockt transparent papper
@@ -225,9 +225,9 @@ ARKM.2005-02-31-01-,Antekningar,1962,Papper på papp,552,413,1962,Gouache
 ARKM.2005-02-,Bostadsrummet Inredning,1962,Papper på papp,580,824,1962,Gouache
 ARKM.2005-05,"Faktura för lakan, handdukar mm",1962,Papper på papp,580,824,1962,Gouache
 ARKM.2005-02,Skiss av lampa,1962,Papper på papp,580,824,1962,Gouache
-ARKM.2005-02-,Fönster i cell,1962,Papper på papp,580,824,1962,Gouache
-ARKM.2005-02-,Fönster i cell,1962,Papper på papp,580,824,1962,Gouache
-ARKM.2005-02-10-02-020,Fönster i cell,1962,Papper på papp,580,824,1962,Gouache
+ARKM.2005-02-,Fönster i cell,1963,Papper på papp,580,824,1962,Gouache
+ARKM.2005-02-,Fönster i cell,1963,Papper på papp,580,824,1962,Gouache
+ARKM.2005-02-10-02-020,Fönster i cell,1963,Papper på papp,580,824,1962,Gouache
 "Nytt ARKM Videgård, Martin","St.Görans gymnasium,perspektiv",1962,Papper på papp,114,241,1962,Gouache
 "Nytt ARKM Videgård, Martin",Artikel,1962,Papper på papp,470,270,1962,Gouache
 "Nytt ARKM Videgård, Martin",Artikel,1960,Papper på papp,470,296,1960,Gouache
